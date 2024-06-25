@@ -8,7 +8,7 @@ The dataset can be accessed [here](https://drive.google.com/file/d/14r7gIbStQMId
 * Secondary KPI's - Total Casualties with respect to Vehicle Type for Current Year
 * Monthly Trend showing comparison of Casualties for Current Year and Previous Year
 * Casualties by Road Type for Current Year
-* Current Year Casualties by Area/Location & Day/Night
+* Current Year Casualties by Area/Location & Time i.e. day/night
 * Total Casualties and Total Accident by Location
 
 ## DAX Formulas Used in Measures
