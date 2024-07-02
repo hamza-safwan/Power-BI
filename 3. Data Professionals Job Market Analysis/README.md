@@ -30,6 +30,6 @@ The dataset used in this analysis comprises real-world job postings for data pro
 ## Business Dashboard
 A comprehensive business dashboard has been developed using Power BI to present the key findings of the analysis. The dashboard provides an interactive interface for users to explore the data and gain actionable insights.
 
-The Data Professionals Job Market Analysis project provides valuable insights into the job market for data professionals. By leveraging Power BI and DAX, we have visualized key trends and patterns in job postings data, enabling stakeholders to make informed decisions in their hiring processes or job search endeavors.
+The Data Professionals Job Market Analysis project provides valuable insights into the job market for data professionals. By leveraging Power BI and DAX, visualized the key trends and patterns in job postings data, enabling stakeholders to make informed decisions in their hiring processes or job search endeavors.
 
 
