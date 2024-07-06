@@ -36,4 +36,4 @@ The data for this project is sourced from the retail store's transaction databas
 3. **Inventory Management Optimization**: Analyze inventory data to optimize stock levels and ensure adequate product availability across franchises.
 
 ## Conclusion
-This PowerBI project aims to leverage data-driven insights to enhance the customer purchasing experience and drive sales growth for the retail store's franchises. By analyzing payment options and sales performance, the project provides actionable recommendations to improve operational efficiency and drive business success.
+This project aims to leverage data-driven insights to enhance the customer purchasing experience and drive sales growth for the retail store's franchises. By analyzing payment options and sales performance, the project provides actionable recommendations to improve operational efficiency and drive business success.
